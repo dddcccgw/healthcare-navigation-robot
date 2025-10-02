@@ -56,7 +56,7 @@ A ROS-based autonomous navigation system for the LoCoBot platform, designed to a
 
 1.  **Clone 儲存庫**
     ```bash
-    git clone [https://github.com/](https://github.com/)dddcccgw/Healthcare-Navigation-Robot.git
+    git clone https://github.com/dddcccgw/Healthcare-Navigation-Robot.git
     cd Healthcare-Navigation-Robot/
     ```
 
